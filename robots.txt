@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://max-dach.github.io/sitemap.xml
